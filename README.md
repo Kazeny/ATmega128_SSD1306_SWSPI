@@ -1,9 +1,15 @@
 # ATmega128_SSD1306_SWSPI
+
 在ATmel studio7.0环境下开发的适用于ATmega128的OLED驱动。
-OLED的驱动芯片：SSD1306；
+
+OLED的驱动芯片：SSD1306
+；
 尺寸：0.96寸；
+
 驱动方式：软件SPI；
+
 输入电压2.8V~5.5V。
+
 功能函数：
 void OLED_WR_Byte(unsigned char dat ,unsigned char cmd); //写数据/控制字
 void OLED_Display_On(void);  //开显示
