@@ -38,6 +38,6 @@ void OLED_ShowCHinese(unsigned char x,unsigned char y,unsigned char no);  //显�
 
 void OLED_DrawBMP(unsigned char x0, unsigned char y0,unsigned char x1, unsigned char y1,const unsigned char BMP[]);  //显示BMP图
 
-At last, thanks for my best friends, zhenguo and shaomin.
+At last, thanks to my best friends, zhenguo and shaomin.
 
 Good Good Study, Day Day Up.
